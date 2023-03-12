@@ -32,7 +32,6 @@ Here are XML feeds by job categories:
 - [Design](https://tryremotely.com/feeds/remote-design-jobs.rss)
 - [Data](https://tryremotely.com/feeds/remote-data-jobs.rss)
 - [Marketing](https://tryremotely.com/feeds/remote-marketing-jobs.rss)
-- [Data](https://tryremotely.com/remote-jobs/data/feed)
 - [Operations](https://tryremotely.com/feeds/remote-operations-jobs.rss)
 - [Sales](https://tryremotely.com/feeds/remote-sales-jobs.rss)
 - [Legal](https://tryremotely.com/feeds/remote-legal-jobs.rss)
