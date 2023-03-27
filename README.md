@@ -144,9 +144,7 @@ Typical data structure should like like this (you may have different XML tag nam
            <salary>
                $40-50K per year
            </salary>
-
        </job>
-
    </jobs>
 </data>
 
